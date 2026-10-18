@@ -1,0 +1,4 @@
+md-konverter	usr/bin/
+icons/MD_HTML.svg	usr/share/icons/hicolor/scalable/apps
+md-konverter.desktop	usr/share/applications/
+org.guideos.mdkonverter.metainfo.xml	usr/share/metainfo/
